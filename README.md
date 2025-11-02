@@ -153,8 +153,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@your-username](https://github.com/your-username)
-- LinkedIn: [Your Profile](https://linkedin.com/in/your-profile)
+- GitHub: [@your-username](https://github.com/huzaifakhan42004-droid)
+- LinkedIn: [Your Profile](https://linkedin.com/in/huzaifa-khan-0121ba27a)
 
 ## 🙏 Acknowledgments
 
