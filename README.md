@@ -7,7 +7,7 @@ A sophisticated web-based simulation platform built with Streamlit that enables 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 ## 📊 Live Demo
-**Experience the simulator now:** [Your Streamlit App Link Here]
+**Experience the simulator now:** [https://btqf4d9mzj4vq4aivwuwd5.streamlit.app/]
 
 ## 🎯 Overview
 
